@@ -1,0 +1,10 @@
+requests~=2.32.3
+python-dateutil~=2.9.0.post0
+python-telegram-bot
+Flask
+requests
+mysql-connector-python
+discord.py
+python-dotenv
+qrcode
+clipboard
